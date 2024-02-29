@@ -1,0 +1,1440 @@
+2023/03/10 14:31;
+2023/03/10 14:31;
+2023/03/10 14:46;2023-06-02 12:38:27;Nao Presentes
+2023-06-02 12:38:35;Nao Presentes
+2023-06-02 12:38:43;Nao Presentes
+2023-06-02 12:38:49;Nao Presentes
+2023-06-02 12:38:54;Nao Presentes
+2023-06-02 12:39:00;Nao Presentes
+2023-06-02 12:39:07;Nao Presentes
+2023-06-02 12:39:13;Nao Presentes
+2023-06-02 12:39:18;Nao Presentes
+2023-06-02 12:39:24;Nao Presentes
+2023-06-02 12:39:29;Nao Presentes
+2023-06-02 12:39:35;Nao Presentes
+2023-06-02 12:39:40;Nao Presentes
+2023-06-02 12:39:46;Nao Presentes
+2023-06-02 12:39:51;Nao Presentes
+2023-06-02 12:39:56;Nao Presentes
+2023-06-02 12:40:01;Nao Presentes
+2023-06-02 12:40:07;Nao Presentes
+2023-06-02 12:40:12;Nao Presentes
+2023-06-02 12:40:17;Nao Presentes
+2023-06-02 12:40:24;Nao Presentes
+2023-06-02 12:40:29;Nao Presentes
+2023-06-02 12:40:36;Nao Presentes
+2023-06-02 12:40:41;Nao Presentes
+2023-06-02 12:40:49;Nao Presentes
+2023-06-02 12:40:54;Nao Presentes
+2023-06-02 12:41:00;Nao Presentes
+2023-06-02 12:41:06;Nao Presentes
+2023-06-02 12:41:11;Nao Presentes
+2023-06-02 12:41:17;Nao Presentes
+2023-06-02 12:41:22;Nao Presentes
+2023-06-02 12:41:28;Nao Presentes
+2023-06-02 12:41:33;Nao Presentes
+2023-06-02 12:41:38;Nao Presentes
+2023-06-02 12:41:44;Nao Presentes
+2023-06-02 12:41:49;Nao Presentes
+2023-06-02 12:41:54;Nao Presentes
+2023-06-02 12:41:59;Nao Presentes
+2023-06-02 12:42:04;Nao Presentes
+2023-06-02 12:42:09;Nao Presentes
+2023-06-02 12:42:15;Nao Presentes
+2023-06-02 12:42:20;Nao Presentes
+2023-06-02 12:42:25;Nao Presentes
+2023-06-02 12:42:31;Nao Presentes
+2023-06-02 12:42:36;Nao Presentes
+2023-06-02 12:42:42;Nao Presentes
+2023-06-02 12:42:47;Nao Presentes
+2023-06-02 12:42:53;Nao Presentes
+2023-06-02 12:42:59;Nao Presentes
+2023-06-02 12:43:05;Nao Presentes
+2023-06-02 12:43:13;Nao Presentes
+2023-06-02 12:43:20;Nao Presentes
+2023-06-02 12:43:26;Nao Presentes
+2023-06-02 12:43:31;Nao Presentes
+2023-06-02 12:43:36;Nao Presentes
+2023-06-02 12:43:41;Nao Presentes
+2023-06-02 12:43:46;Nao Presentes
+2023-06-02 12:43:51;Nao Presentes
+2023-06-02 12:43:57;Nao Presentes
+2023-06-02 12:44:02;Nao Presentes
+2023-06-02 12:44:07;Nao Presentes
+2023-06-02 12:44:12;Nao Presentes
+2023-06-02 12:44:17;Nao Presentes
+2023-06-02 12:44:22;Nao Presentes
+2023-06-02 12:44:27;Nao Presentes
+2023-06-02 12:44:33;Nao Presentes
+2023-06-02 12:44:38;Nao Presentes
+2023-06-02 12:44:43;Nao Presentes
+2023-06-02 12:44:48;Nao Presentes
+2023-06-02 12:44:58;Nao Presentes
+2023-06-02 12:45:08;Nao Presentes
+2023-06-02 12:45:17;Nao Presentes
+2023-06-02 12:45:24;Nao Presentes
+2023-06-02 12:45:29;Nao Presentes
+2023-06-02 12:45:35;Nao Presentes
+2023-06-02 12:45:41;Nao Presentes
+2023-06-02 12:45:46;Nao Presentes
+2023-06-02 12:45:51;Nao Presentes
+2023-06-02 12:45:56;Nao Presentes
+2023-06-02 12:46:02;Nao Presentes
+2023-06-02 12:46:07;Nao Presentes
+2023-06-02 12:46:12;Nao Presentes
+2023-06-02 12:46:17;Nao Presentes
+2023-06-02 12:46:22;Nao Presentes
+2023-06-02 12:46:27;Nao Presentes
+2023-06-02 12:46:33;Nao Presentes
+2023-06-02 12:46:38;Nao Presentes
+2023-06-02 12:46:44;Nao Presentes
+2023-06-02 12:46:49;Nao Presentes
+2023-06-02 12:46:55;Nao Presentes
+2023-06-02 12:47:01;Nao Presentes
+2023-06-02 12:47:06;Nao Presentes
+2023-06-02 12:47:11;Nao Presentes
+2023-06-02 12:47:17;Nao Presentes
+2023-06-02 12:47:27;Nao Presentes
+2023-06-02 12:47:35;Nao Presentes
+2023-06-02 12:47:45;Nao Presentes
+2023-06-02 12:47:52;Nao Presentes
+2023-06-02 12:47:57;Nao Presentes
+2023-06-02 12:48:03;Nao Presentes
+2023-06-02 12:48:08;Nao Presentes
+2023-06-02 12:48:13;Nao Presentes
+2023-06-02 12:48:18;Nao Presentes
+2023-06-02 12:48:23;Nao Presentes
+2023-06-02 12:48:28;Nao Presentes
+2023-06-02 12:48:33;Nao Presentes
+2023-06-02 12:48:39;Nao Presentes
+2023-06-02 12:48:44;Nao Presentes
+2023-06-02 12:48:49;Nao Presentes
+2023-06-02 12:48:54;Nao Presentes
+2023-06-02 12:48:59;Nao Presentes
+2023-06-02 12:49:05;Nao Presentes
+2023-06-02 12:49:10;Nao Presentes
+2023-06-02 12:49:15;Nao Presentes
+2023-06-02 12:49:22;Nao Presentes
+2023-06-02 12:49:27;Nao Presentes
+2023-06-02 12:49:32;Nao Presentes
+2023-06-02 12:49:39;Nao Presentes
+2023-06-02 12:49:44;Nao Presentes
+2023-06-02 12:49:50;Nao Presentes
+2023-06-02 12:49:55;Nao Presentes
+2023-06-02 12:50:01;Nao Presentes
+2023-06-02 12:50:06;Nao Presentes
+2023-06-02 12:50:11;Nao Presentes
+2023-06-02 12:50:16;Nao Presentes
+2023-06-02 12:50:21;Nao Presentes
+2023-06-02 12:50:27;Nao Presentes
+2023-06-02 12:50:32;Nao Presentes
+2023-06-02 12:50:37;Nao Presentes
+2023-06-02 12:50:42;Nao Presentes
+2023-06-02 12:50:47;Nao Presentes
+2023-06-02 12:50:53;Nao Presentes
+2023-06-02 12:50:59;Nao Presentes
+2023-06-02 12:51:04;Nao Presentes
+2023-06-02 12:51:09;Nao Presentes
+2023-06-02 12:51:14;Nao Presentes
+2023-06-02 12:51:19;Nao Presentes
+2023-06-02 12:51:24;Nao Presentes
+2023-06-02 12:51:30;Nao Presentes
+2023-06-02 12:51:35;Nao Presentes
+2023-06-02 12:51:40;Nao Presentes
+2023-06-02 12:51:45;Nao Presentes
+2023-06-02 12:51:50;Nao Presentes
+2023-06-02 12:51:55;Nao Presentes
+2023-06-02 12:52:01;Nao Presentes
+2023-06-02 12:52:08;Nao Presentes
+2023-06-02 12:52:14;Nao Presentes
+2023-06-02 12:52:19;Nao Presentes
+2023-06-02 12:52:24;Nao Presentes
+2023-06-02 12:52:29;Nao Presentes
+2023-06-02 12:52:34;Nao Presentes
+2023-06-02 12:52:39;Nao Presentes
+2023-06-02 12:52:45;Nao Presentes
+2023-06-02 12:52:50;Nao Presentes
+2023-06-02 12:52:55;Nao Presentes
+2023-06-02 12:53:00;Nao Presentes
+2023-06-02 12:53:06;Nao Presentes
+2023-06-02 12:53:11;Nao Presentes
+2023-06-02 12:53:16;Nao Presentes
+2023-06-02 12:53:22;Nao Presentes
+2023-06-02 12:53:27;Nao Presentes
+2023-06-02 12:53:32;Nao Presentes
+2023-06-02 12:53:38;Nao Presentes
+2023-06-02 12:53:43;Nao Presentes
+2023-06-02 12:53:48;Nao Presentes
+2023-06-02 12:53:53;Nao Presentes
+2023-06-02 12:53:59;Nao Presentes
+2023-06-02 12:54:04;Nao Presentes
+2023-06-02 12:54:09;Nao Presentes
+2023-06-02 12:54:15;Nao Presentes
+2023-06-02 12:54:20;Nao Presentes
+2023-06-02 12:54:26;Nao Presentes
+2023-06-02 12:54:31;Nao Presentes
+2023-06-02 12:54:37;Nao Presentes
+2023-06-02 12:54:42;Nao Presentes
+2023-06-02 12:54:47;Nao Presentes
+2023-06-02 12:54:53;Nao Presentes
+2023-06-02 12:54:58;Nao Presentes
+2023-06-02 12:55:04;Nao Presentes
+2023-06-02 12:55:09;Nao Presentes
+2023-06-02 12:55:15;Nao Presentes
+2023-06-02 12:55:21;Nao Presentes
+2023-06-02 12:55:26;Nao Presentes
+2023-06-02 12:55:33;Nao Presentes
+2023-06-02 12:55:39;Nao Presentes
+2023-06-02 12:55:44;Nao Presentes
+2023-06-02 12:55:50;Nao Presentes
+2023-06-02 12:55:55;Nao Presentes
+2023-06-02 12:56:00;Nao Presentes
+2023-06-02 12:56:06;Nao Presentes
+2023-06-02 12:56:12;Nao Presentes
+2023-06-02 12:56:17;Nao Presentes
+2023-06-02 12:56:22;Nao Presentes
+2023-06-02 12:56:28;Nao Presentes
+2023-06-02 12:56:33;Nao Presentes
+2023-06-02 12:56:38;Nao Presentes
+2023-06-02 12:56:43;Nao Presentes
+2023-06-02 12:56:48;Nao Presentes
+2023-06-02 12:56:53;Nao Presentes
+2023-06-02 12:56:58;Nao Presentes
+2023-06-02 12:57:03;Nao Presentes
+2023-06-02 12:57:09;Nao Presentes
+2023-06-02 12:57:14;Nao Presentes
+2023-06-02 12:57:19;Nao Presentes
+2023-06-02 12:57:28;Nao Presentes
+2023-06-02 12:57:33;Nao Presentes
+2023-06-02 12:57:39;Nao Presentes
+2023-06-02 12:57:44;Nao Presentes
+2023-06-02 12:57:49;Nao Presentes
+2023-06-02 12:57:54;Nao Presentes
+2023-06-02 12:57:59;Nao Presentes
+2023-06-02 12:58:05;Nao Presentes
+2023-06-02 12:58:10;Nao Presentes
+2023-06-02 12:58:15;Nao Presentes
+2023-06-02 12:58:20;Nao Presentes
+2023-06-02 12:58:26;Presentes
+2023-06-02 12:58:31;Presentes
+2023-06-02 12:58:37;Presentes
+2023-06-02 12:58:42;Presentes
+2023-06-02 12:58:47;Presentes
+2023-06-02 12:58:53;Presentes
+2023-06-02 12:58:58;Presentes
+2023-06-02 12:59:04;Presentes
+2023-06-02 12:59:10;Presentes
+2023-06-02 12:59:15;Presentes
+2023-06-02 12:59:20;Presentes
+2023-06-02 12:59:25;Presentes
+2023-06-02 12:59:30;Presentes
+2023-06-02 12:59:35;Presentes
+2023-06-02 12:59:41;Presentes
+2023-06-02 12:59:46;Presentes
+2023-06-02 12:59:51;Presentes
+2023-06-02 12:59:57;Presentes
+2023-06-02 13:00:02;Presentes
+2023-06-02 13:00:07;Presentes
+2023-06-02 13:00:12;Presentes
+2023-06-02 13:00:17;Nao Presentes
+2023-06-02 13:00:22;Presentes
+2023-06-02 13:00:28;Presentes
+2023-06-02 13:00:33;Presentes
+2023-06-02 13:00:38;Presentes
+2023-06-02 13:00:43;Presentes
+2023-06-02 13:00:49;Presentes
+2023-06-02 13:00:54;Presentes
+2023-06-02 13:00:59;Presentes
+2023-06-02 13:01:04;Presentes
+2023-06-02 13:01:12;Presentes
+2023-06-02 13:01:17;Presentes
+2023-06-02 13:01:22;Presentes
+2023-06-02 13:01:27;Presentes
+2023-06-02 13:01:32;Presentes
+2023-06-02 13:01:37;Presentes
+2023-06-02 13:01:43;Presentes
+2023-06-02 13:01:48;Nao Presentes
+2023-06-02 13:01:53;Nao Presentes
+2023-06-02 13:01:59;Nao Presentes
+2023-06-02 13:02:04;Nao Presentes
+2023-06-02 13:02:09;Nao Presentes
+2023-06-02 13:02:15;Nao Presentes
+2023-06-02 13:02:20;Nao Presentes
+2023-06-02 13:02:25;Nao Presentes
+2023-06-02 13:02:30;Nao Presentes
+2023-06-02 13:02:35;Presentes
+2023-06-02 13:02:40;Presentes
+2023-06-02 13:02:45;Presentes
+2023-06-02 13:02:52;Presentes
+2023-06-02 13:02:57;Nao Presentes
+2023-06-02 13:03:03;Nao Presentes
+2023-06-02 13:03:08;Nao Presentes
+2023-06-02 13:03:13;Nao Presentes
+2023-06-02 13:03:18;Presentes
+2023-06-02 13:03:27;Presentes
+2023-06-02 13:03:38;Presentes
+2023-06-02 13:03:49;Presentes
+2023-06-02 13:03:55;Presentes
+2023-06-02 13:04:00;Presentes
+2023-06-02 13:04:06;Presentes
+2023-06-02 13:04:11;Nao Presentes
+2023-06-02 13:04:16;Presentes
+2023-06-02 13:04:21;Presentes
+2023-06-02 13:04:26;Presentes
+2023-06-02 13:04:31;Presentes
+2023-06-02 13:04:36;Presentes
+2023-06-02 13:04:41;Presentes
+2023-06-02 13:04:46;Presentes
+2023-06-02 13:04:52;Presentes
+2023-06-02 13:04:57;Presentes
+2023-06-02 13:05:02;Presentes
+2023-06-02 13:05:08;Presentes
+2023-06-02 13:05:13;Presentes
+2023-06-02 13:05:19;Presentes
+2023-06-02 13:05:24;Presentes
+2023-06-02 13:05:29;Presentes
+2023-06-02 13:06:06;Nao Presentes
+2023-06-02 13:06:11;Nao Presentes
+2023-06-02 13:06:17;Nao Presentes
+2023-06-02 13:06:22;Nao Presentes
+2023-06-02 13:06:27;Presentes
+2023-06-02 13:06:32;Presentes
+2023-06-02 13:06:37;Presentes
+2023-06-02 13:06:43;Nao Presentes
+2023-06-02 13:06:50;Nao Presentes
+2023-06-02 13:06:55;Nao Presentes
+2023-06-02 13:07:00;Nao Presentes
+2023-06-02 13:07:06;Presentes
+2023-06-02 13:07:11;Presentes
+2023-06-02 13:07:16;Presentes
+2023-06-02 13:07:21;Presentes
+2023-06-02 13:07:26;Presentes
+2023-06-02 13:07:32;Presentes
+2023-06-02 13:07:37;Presentes
+2023-06-02 13:07:42;Presentes
+2023-06-02 13:07:47;Presentes
+2023-06-02 13:07:52;Presentes
+2023-06-02 13:07:58;Presentes
+2023-06-02 13:08:03;Presentes
+2023-06-02 13:08:08;Presentes
+2023-06-02 13:08:14;Presentes
+2023-06-02 13:08:19;Presentes
+2023-06-02 13:08:24;Presentes
+2023-06-02 13:08:30;Presentes
+2023-06-02 13:08:35;Presentes
+2023-06-02 13:08:40;Presentes
+2023-06-02 13:08:45;Presentes
+2023-06-02 13:08:55;Presentes
+2023-06-02 13:09:00;Nao Presentes
+2023-06-02 13:09:05;Nao Presentes
+2023-06-02 13:09:10;Nao Presentes
+2023-06-02 13:09:15;Nao Presentes
+2023-06-02 13:09:20;Nao Presentes
+2023-06-02 13:09:25;Nao Presentes
+2023-06-02 13:09:30;Nao Presentes
+2023-06-02 13:09:35;Nao Presentes
+2023-06-02 13:09:41;Nao Presentes
+2023-06-02 13:09:46;Nao Presentes
+2023-06-02 13:09:51;Nao Presentes
+2023-06-02 13:09:56;Nao Presentes
+2023-06-02 13:10:01;Nao Presentes
+2023-06-02 13:10:07;Nao Presentes
+2023-06-02 13:10:12;Nao Presentes
+2023-06-02 13:10:17;Nao Presentes
+2023-06-02 13:10:22;Presentes
+2023-06-02 13:10:27;Presentes
+2023-06-02 13:10:32;Nao Presentes
+2023-06-02 13:10:37;Nao Presentes
+2023-06-02 13:10:43;Nao Presentes
+2023-06-02 13:10:49;Nao Presentes
+2023-06-02 13:10:54;Nao Presentes
+2023-06-02 13:10:59;Nao Presentes
+2023-06-02 13:11:00;Nao Presentes
+2023-06-02 13:11:04;Nao Presentes
+2023-06-02 13:11:05;Nao Presentes
+2023-06-02 13:11:09;Nao Presentes
+2023-06-02 13:11:10;Nao Presentes
+2023-06-02 13:11:14;Nao Presentes
+2023-06-02 13:11:15;Nao Presentes
+2023-06-02 13:11:20;Nao Presentes
+2023-06-02 13:11:20;Nao Presentes
+2023-06-02 13:11:25;Nao Presentes
+2023-06-02 13:11:25;Nao Presentes
+2023-06-02 13:11:33;Presentes
+2023-06-02 13:11:33;Presentes
+2023-06-02 13:11:39;Presentes
+2023-06-02 13:11:39;Presentes
+2023-06-02 13:11:45;Presentes
+2023-06-02 13:11:45;Presentes
+2023-06-02 13:11:50;Presentes
+2023-06-02 13:11:50;Presentes
+2023-06-02 13:11:55;Presentes
+2023-06-02 13:11:55;Presentes
+2023-06-02 13:12:01;Presentes
+2023-06-02 13:12:07;Presentes
+2023-06-02 13:12:07;Presentes
+2023-06-02 13:12:12;Presentes
+2023-06-02 13:12:12;Presentes
+2023-06-02 13:12:17;Presentes
+2023-06-02 13:12:17;Presentes
+2023-06-02 13:12:22;Presentes
+2023-06-02 13:12:22;Presentes
+2023-06-02 13:12:28;Presentes
+2023-06-02 13:12:28;Presentes
+2023-06-02 13:12:33;Presentes
+2023-06-02 13:12:33;Presentes
+2023-06-02 13:12:38;Presentes
+2023-06-02 13:12:38;Presentes
+2023-06-02 13:12:43;Presentes
+2023-06-02 13:12:43;Presentes
+2023-06-02 13:12:48;Presentes
+2023-06-02 13:12:48;Presentes
+2023-06-02 13:12:54;Presentes
+2023-06-02 13:12:54;Presentes
+2023-06-02 13:12:59;Presentes
+2023-06-02 13:12:59;Presentes
+2023-06-02 13:13:05;Presentes
+2023-06-02 13:13:05;Presentes
+2023-06-02 13:13:10;Presentes
+2023-06-02 13:13:10;Presentes
+2023-06-02 13:13:15;Presentes
+2023-06-02 13:13:15;Presentes
+2023-06-02 13:13:20;Presentes
+2023-06-02 13:13:20;Presentes
+2023-06-02 13:13:26;Presentes
+2023-06-02 13:13:26;Presentes
+2023-06-02 13:13:31;Presentes
+2023-06-02 13:13:31;Presentes
+2023-06-02 13:13:36;Presentes
+2023-06-02 13:13:36;Presentes
+2023-06-02 13:13:42;Nao Presentes
+2023-06-02 13:13:42;Nao Presentes
+2023-06-02 13:13:47;Nao Presentes
+2023-06-02 13:13:47;Nao Presentes
+2023-06-02 13:13:53;Nao Presentes
+2023-06-02 13:13:53;Nao Presentes
+2023-06-02 13:13:58;Nao Presentes
+2023-06-02 13:13:58;Nao Presentes
+2023-06-02 13:14:03;Nao Presentes
+2023-06-02 13:14:03;Nao Presentes
+2023-06-02 13:14:08;Nao Presentes
+2023-06-02 13:14:08;Nao Presentes
+2023-06-02 13:14:13;Nao Presentes
+2023-06-02 13:14:13;Nao Presentes
+2023-06-02 13:14:18;Nao Presentes
+2023-06-02 13:14:18;Nao Presentes
+2023-06-02 13:14:23;Nao Presentes
+2023-06-02 13:14:23;Nao Presentes
+2023-06-02 13:14:28;Nao Presentes
+2023-06-02 13:14:28;Nao Presentes
+2023-06-02 13:14:33;Nao Presentes
+2023-06-02 13:14:34;Nao Presentes
+2023-06-02 13:14:39;Nao Presentes
+2023-06-02 13:14:39;Nao Presentes
+2023-06-02 13:14:44;Nao Presentes
+2023-06-02 13:14:44;Nao Presentes
+2023-06-02 13:14:49;Nao Presentes
+2023-06-02 13:14:49;Nao Presentes
+2023-06-02 13:14:54;Nao Presentes
+2023-06-02 13:14:54;Nao Presentes
+2023-06-02 13:14:59;Nao Presentes
+2023-06-02 13:14:59;Nao Presentes
+2023-06-02 13:15:05;Nao Presentes
+2023-06-02 13:15:05;Nao Presentes
+2023-06-02 13:15:10;Nao Presentes
+2023-06-02 13:15:10;Nao Presentes
+2023-06-02 13:15:15;Nao Presentes
+2023-06-02 13:15:15;Nao Presentes
+2023-06-02 13:15:21;Nao Presentes
+2023-06-02 13:15:21;Nao Presentes
+2023-06-02 13:15:26;Nao Presentes
+2023-06-02 13:15:26;Nao Presentes
+2023-06-02 13:15:31;Presentes
+2023-06-02 13:15:31;Presentes
+2023-06-02 13:15:36;Presentes
+2023-06-02 13:15:36;Presentes
+2023-06-02 13:15:42;Presentes
+2023-06-02 13:15:42;Presentes
+2023-06-02 13:15:47;Presentes
+2023-06-02 13:15:47;Presentes
+2023-06-02 13:15:52;Presentes
+2023-06-02 13:15:52;Presentes
+2023-06-02 13:15:58;Presentes
+2023-06-02 13:15:58;Presentes
+2023-06-02 13:16:03;Presentes
+2023-06-02 13:16:03;Presentes
+2023-06-02 13:16:08;Presentes
+2023-06-02 13:16:08;Presentes
+2023-06-02 13:16:13;Presentes
+2023-06-02 13:16:13;Presentes
+2023-06-02 13:16:18;Presentes
+2023-06-02 13:16:18;Presentes
+2023-06-02 13:16:23;Presentes
+2023-06-02 13:16:23;Presentes
+2023-06-02 13:16:29;Presentes
+2023-06-02 13:16:29;Presentes
+2023-06-02 13:16:34;Presentes
+2023-06-02 13:16:34;Presentes
+2023-06-02 13:16:39;Presentes
+2023-06-02 13:16:39;Presentes
+2023-06-02 13:16:45;Presentes
+2023-06-02 13:16:45;Presentes
+2023-06-02 13:16:50;Presentes
+2023-06-02 13:16:50;Presentes
+2023-06-02 13:16:55;Presentes
+2023-06-02 13:16:55;Presentes
+2023-06-02 13:17:01;Presentes
+2023-06-02 13:17:01;Presentes
+2023-06-02 13:17:06;Presentes
+2023-06-02 13:17:06;Presentes
+2023-06-02 13:17:11;Presentes
+2023-06-02 13:17:11;Presentes
+2023-06-02 13:17:16;Presentes
+2023-06-02 13:17:16;Presentes
+2023-06-02 13:17:21;Nao Presentes
+2023-06-02 13:17:21;Nao Presentes
+2023-06-02 13:17:27;Nao Presentes
+2023-06-02 13:17:27;Nao Presentes
+2023-06-02 13:17:33;Nao Presentes
+2023-06-02 13:17:33;Nao Presentes
+2023-06-02 13:17:38;Nao Presentes
+2023-06-02 13:17:38;Nao Presentes
+2023-06-02 13:17:44;Nao Presentes
+2023-06-02 13:17:44;Nao Presentes
+2023-06-02 13:17:49;Nao Presentes
+2023-06-02 13:17:49;Nao Presentes
+2023-06-02 13:17:54;Presentes
+2023-06-02 13:17:54;Presentes
+2023-06-02 13:17:59;Nao Presentes
+2023-06-02 13:17:59;Nao Presentes
+2023-06-02 13:18:07;Presentes
+2023-06-02 13:18:07;Presentes
+2023-06-02 13:18:13;Presentes
+2023-06-02 13:18:13;Presentes
+2023-06-02 13:18:18;Presentes
+2023-06-02 13:18:18;Presentes
+2023-06-02 13:18:23;Presentes
+2023-06-02 13:18:24;Presentes
+2023-06-02 13:18:29;Presentes
+2023-06-02 13:18:34;Presentes
+2023-06-02 13:18:34;Nao Presentes
+2023-06-02 13:18:39;Nao Presentes
+2023-06-02 13:18:39;Nao Presentes
+2023-06-02 13:18:45;Nao Presentes
+2023-06-02 13:18:45;Nao Presentes
+2023-06-02 13:18:50;Nao Presentes
+2023-06-02 13:18:50;Nao Presentes
+2023-06-02 13:18:56;Nao Presentes
+2023-06-02 13:18:56;Nao Presentes
+2023-06-02 13:19:01;Nao Presentes
+2023-06-02 13:19:01;Nao Presentes
+2023-06-02 13:19:08;Presentes
+2023-06-02 13:19:08;Presentes
+2023-06-02 13:19:13;Nao Presentes
+2023-06-02 13:19:13;Nao Presentes
+2023-06-02 13:19:18;Nao Presentes
+2023-06-02 13:19:18;Nao Presentes
+2023-06-02 13:19:24;Nao Presentes
+2023-06-02 13:19:24;Nao Presentes
+2023-06-02 13:19:29;Nao Presentes
+2023-06-02 13:19:29;Nao Presentes
+2023-06-02 13:19:34;Nao Presentes
+2023-06-02 13:19:34;Nao Presentes
+2023-06-02 13:19:39;Nao Presentes
+2023-06-02 13:19:39;Nao Presentes
+2023-06-02 13:19:44;Nao Presentes
+2023-06-02 13:19:49;Nao Presentes
+2023-06-02 13:19:49;Nao Presentes
+2023-06-02 13:19:54;Nao Presentes
+2023-06-02 13:19:54;Nao Presentes
+2023-06-02 13:19:59;Nao Presentes
+2023-06-02 13:19:59;Nao Presentes
+2023-06-02 13:20:04;Nao Presentes
+2023-06-02 13:20:04;Nao Presentes
+2023-06-02 13:20:09;Nao Presentes
+2023-06-02 13:20:09;Nao Presentes
+2023-06-02 13:20:15;Nao Presentes
+2023-06-02 13:20:15;Nao Presentes
+2023-06-02 13:20:20;Nao Presentes
+2023-06-02 13:20:20;Nao Presentes
+2023-06-02 13:20:25;Nao Presentes
+2023-06-02 13:20:25;Nao Presentes
+2023-06-02 13:20:30;Nao Presentes
+2023-06-02 13:20:30;Nao Presentes
+2023-06-02 13:20:35;Nao Presentes
+2023-06-02 13:20:35;Nao Presentes
+2023-06-02 13:20:41;Nao Presentes
+2023-06-02 13:20:41;Nao Presentes
+2023-06-02 13:20:46;Nao Presentes
+2023-06-02 13:20:46;Nao Presentes
+2023-06-02 13:20:51;Nao Presentes
+2023-06-02 13:20:51;Nao Presentes
+2023-06-02 13:20:56;Nao Presentes
+2023-06-02 13:20:56;Nao Presentes
+2023-06-02 13:21:01;Nao Presentes
+2023-06-02 13:21:01;Nao Presentes
+2023-06-02 13:21:06;Nao Presentes
+2023-06-02 13:21:06;Nao Presentes
+2023-06-02 13:21:11;Nao Presentes
+2023-06-02 13:21:11;Nao Presentes
+2023-06-02 13:21:16;Nao Presentes
+2023-06-02 13:21:16;Nao Presentes
+2023-06-02 13:21:22;Nao Presentes
+2023-06-02 13:21:22;Nao Presentes
+2023-06-02 13:21:27;Nao Presentes
+2023-06-02 13:21:27;Nao Presentes
+2023-06-02 13:21:32;Nao Presentes
+2023-06-02 13:21:32;Nao Presentes
+2023-06-02 13:21:38;Nao Presentes
+2023-06-02 13:21:38;Nao Presentes
+2023-06-02 13:21:43;Nao Presentes
+2023-06-02 13:21:43;Nao Presentes
+2023-06-02 13:21:48;Nao Presentes
+2023-06-02 13:21:48;Nao Presentes
+2023-06-02 13:21:53;Nao Presentes
+2023-06-02 13:21:53;Nao Presentes
+2023-06-02 13:21:58;Nao Presentes
+2023-06-02 13:21:58;Nao Presentes
+2023-06-02 13:22:04;Nao Presentes
+2023-06-02 13:22:04;Nao Presentes
+2023-06-02 13:22:09;Nao Presentes
+2023-06-02 13:22:09;Nao Presentes
+2023-06-02 13:22:14;Nao Presentes
+2023-06-02 13:22:14;Nao Presentes
+2023-06-02 13:22:19;Nao Presentes
+2023-06-02 13:22:19;Nao Presentes
+2023-06-02 13:22:25;Nao Presentes
+2023-06-02 13:22:25;Nao Presentes
+2023-06-02 13:22:30;Nao Presentes
+2023-06-02 13:22:30;Nao Presentes
+2023-06-02 13:22:35;Nao Presentes
+2023-06-02 13:22:35;Nao Presentes
+2023-06-02 13:22:40;Nao Presentes
+2023-06-02 13:22:40;Nao Presentes
+2023-06-02 13:22:45;Nao Presentes
+2023-06-02 13:22:50;Nao Presentes
+2023-06-02 13:22:56;Nao Presentes
+2023-06-02 13:23:01;Nao Presentes
+2023-06-02 13:23:07;Nao Presentes
+2023-06-02 13:23:12;Nao Presentes
+2023-06-02 13:23:18;Nao Presentes
+2023-06-02 13:23:23;Presentes
+2023-06-02 13:23:30;Presentes
+2023-06-02 13:23:35;Presentes
+2023-06-02 13:23:40;Presentes
+2023-06-02 13:23:45;Presentes
+2023-06-02 13:23:51;Presentes
+2023-06-02 13:23:56;Presentes
+2023-06-02 13:24:01;Presentes
+2023-06-02 13:24:06;Presentes
+2023-06-02 13:24:13;Presentes
+2023-06-02 13:24:18;Presentes
+2023-06-02 13:24:24;Presentes
+2023-06-02 13:24:30;Presentes
+2023-06-02 13:24:36;Presentes
+2023-06-02 13:24:42;Presentes
+2023-06-02 13:24:47;Presentes
+2023-06-02 13:24:52;Presentes
+2023-06-02 13:24:57;Presentes
+2023-06-02 13:25:03;Presentes
+2023-06-02 13:25:08;Presentes
+2023-06-02 13:25:13;Nao Presentes
+2023-06-02 13:25:19;Nao Presentes
+2023-06-02 13:25:24;Presentes
+2023-06-02 13:25:29;Presentes
+2023-06-02 13:25:34;Presentes
+2023-06-02 13:25:39;Presentes
+2023-06-02 13:25:45;Presentes
+2023-06-02 13:25:50;Presentes
+2023-06-02 13:25:55;Presentes
+2023-06-02 13:26:00;Presentes
+2023-06-02 13:26:06;Presentes
+2023-06-02 13:26:11;Presentes
+2023-06-02 13:26:16;Presentes
+2023-06-02 13:26:25;Presentes
+2023-06-02 13:26:31;Presentes
+2023-06-02 13:26:38;Nao Presentes
+2023-06-02 13:26:43;Nao Presentes
+2023-06-02 13:26:49;Nao Presentes
+2023-06-02 13:26:54;Nao Presentes
+2023-06-02 13:26:59;Nao Presentes
+2023-06-02 13:27:04;Nao Presentes
+2023-06-02 13:27:10;Nao Presentes
+2023-06-02 13:27:15;Nao Presentes
+2023-06-02 13:27:20;Nao Presentes
+2023-06-02 13:27:25;Nao Presentes
+2023-06-02 13:27:30;Nao Presentes
+2023-06-02 13:27:35;Nao Presentes
+2023-06-02 13:27:41;Nao Presentes
+2023-06-02 13:27:46;Nao Presentes
+2023-06-02 13:27:51;Nao Presentes
+2023-06-02 13:27:57;Nao Presentes
+2023-06-02 13:28:02;Nao Presentes
+2023-06-02 13:28:07;Nao Presentes
+2023-06-02 13:28:12;Nao Presentes
+2023-06-02 13:28:18;Nao Presentes
+2023-06-02 13:28:23;Nao Presentes
+2023-06-02 13:28:28;Nao Presentes
+2023-06-02 13:28:33;Nao Presentes
+2023-06-02 13:28:39;Nao Presentes
+2023-06-02 13:28:44;Nao Presentes
+2023-06-02 13:28:50;Nao Presentes
+2023-06-02 13:28:55;Presentes
+2023-06-02 13:29:00;Presentes
+2023-06-02 13:29:05;Presentes
+2023-06-02 13:29:11;Presentes
+2023-06-02 13:29:16;Presentes
+2023-06-02 13:29:21;Nao Presentes
+2023-06-02 13:29:31;Nao Presentes
+2023-06-02 13:29:36;Presentes
+2023-06-02 13:29:41;Nao Presentes
+2023-06-02 13:29:46;Nao Presentes
+2023-06-02 13:29:52;Nao Presentes
+2023-06-02 13:29:58;Presentes
+2023-06-02 13:30:03;Presentes
+2023-06-02 13:30:27;Nao Presentes
+2023-06-02 13:30:32;Nao Presentes
+2023-06-02 13:30:37;Nao Presentes
+2023-06-02 13:30:42;Nao Presentes
+2023-06-02 13:30:47;Nao Presentes
+2023-06-02 13:30:52;Nao Presentes
+2023-06-02 13:30:58;Presentes
+2023-06-02 13:31:03;Presentes
+2023-06-02 13:31:08;Presentes
+2023-06-02 13:31:13;Presentes
+2023-06-02 13:31:18;Presentes
+2023-06-02 13:31:24;Presentes
+2023-06-02 13:31:29;Presentes
+2023-06-02 13:31:34;Presentes
+2023-06-02 13:31:39;Presentes
+2023-06-02 13:31:44;Presentes
+2023-06-02 13:31:49;Presentes
+2023-06-02 13:31:54;Presentes
+2023-06-02 13:32:00;Presentes
+2023-06-02 13:32:05;Presentes
+2023-06-02 13:32:10;Presentes
+2023-06-02 13:32:15;Presentes
+2023-06-02 13:32:20;Presentes
+2023-06-02 13:32:25;Presentes
+2023-06-02 13:32:30;Presentes
+2023-06-02 13:32:35;Presentes
+2023-06-02 13:32:41;Presentes
+2023-06-02 13:32:46;Presentes
+2023-06-02 13:32:51;Presentes
+2023-06-02 13:32:56;Presentes
+2023-06-02 13:33:01;Presentes
+2023-06-02 13:33:07;Presentes
+2023-06-02 13:33:12;Presentes
+2023-06-02 13:33:17;Presentes
+2023-06-02 13:33:22;Presentes
+2023-06-02 13:33:27;Presentes
+2023-06-02 13:33:32;Presentes
+2023-06-02 13:33:37;Presentes
+2023-06-02 13:33:42;Nao Presentes
+2023-06-02 13:33:48;Presentes
+2023-06-02 13:33:53;Presentes
+2023-06-02 13:33:59;Presentes
+2023-06-02 13:34:04;Presentes
+2023-06-02 13:34:09;Presentes
+2023-06-02 13:34:14;Presentes
+2023-06-02 13:34:19;Presentes
+2023-06-02 13:34:24;Presentes
+2023-06-02 13:34:29;Presentes
+2023-06-02 13:34:34;Presentes
+2023-06-02 13:34:40;Presentes
+2023-06-02 13:34:45;Presentes
+2023-06-02 13:34:50;Presentes
+2023-06-02 13:34:55;Presentes
+2023-06-02 13:35:00;Presentes
+2023-06-02 13:35:05;Presentes
+2023-06-02 13:35:10;Nao Presentes
+2023-06-02 13:35:15;Nao Presentes
+2023-06-02 13:35:21;Nao Presentes
+2023-06-02 13:35:26;Nao Presentes
+2023-06-02 13:35:31;Presentes
+2023-06-02 13:35:36;Presentes
+2023-06-02 13:35:41;Nao Presentes
+2023-06-02 13:35:46;Nao Presentes
+2023-06-02 13:35:52;Nao Presentes
+2023-06-02 13:35:57;Nao Presentes
+2023-06-02 13:36:02;Nao Presentes
+2023-06-02 13:36:07;Nao Presentes
+2023-06-02 13:36:13;Nao Presentes
+2023-06-02 13:36:18;Nao Presentes
+2023-06-02 13:36:23;Nao Presentes
+2023-06-02 13:36:28;Nao Presentes
+2023-06-02 13:36:33;Nao Presentes
+2023-06-02 13:36:38;Nao Presentes
+2023-06-02 13:36:43;Nao Presentes
+2023-06-02 13:36:48;Nao Presentes
+2023-06-02 13:36:53;Nao Presentes
+2023-06-02 13:36:59;Nao Presentes
+2023-06-02 13:37:04;Nao Presentes
+2023-06-02 13:37:09;Nao Presentes
+2023-06-02 13:37:14;Nao Presentes
+2023-06-02 13:37:19;Nao Presentes
+2023-06-02 13:37:24;Nao Presentes
+2023-06-02 13:37:29;Nao Presentes
+2023-06-02 13:37:34;Nao Presentes
+2023-06-02 13:37:39;Nao Presentes
+2023-06-02 13:37:45;Nao Presentes
+2023-06-02 13:37:50;Nao Presentes
+2023-06-02 13:37:55;Nao Presentes
+2023-06-02 13:38:00;Nao Presentes
+2023-06-02 13:38:05;Nao Presentes
+2023-06-02 13:38:10;Nao Presentes
+2023-06-02 13:38:15;Nao Presentes
+2023-06-02 13:38:20;Nao Presentes
+2023-06-02 13:38:25;Nao Presentes
+2023-06-02 13:38:30;Nao Presentes
+2023-06-02 13:38:36;Nao Presentes
+2023-06-02 13:38:41;Nao Presentes
+2023-06-02 13:38:46;Nao Presentes
+2023-06-02 13:38:51;Nao Presentes
+2023-06-02 13:38:56;Nao Presentes
+2023-06-02 13:39:01;Nao Presentes
+2023-06-02 13:39:06;Nao Presentes
+2023-06-02 13:39:11;Nao Presentes
+2023-06-02 13:39:16;Nao Presentes
+2023-06-02 13:39:22;Nao Presentes
+2023-06-02 13:39:27;Nao Presentes
+2023-06-02 13:39:32;Nao Presentes
+2023-06-02 13:39:37;Nao Presentes
+2023-06-02 13:39:42;Nao Presentes
+2023-06-02 13:39:47;Nao Presentes
+2023-06-02 13:39:52;Nao Presentes
+2023-06-02 13:42:19;Nao Presentes
+2023-06-02 13:42:24;Nao Presentes
+2023-06-02 13:42:29;Presentes
+2023-06-02 13:42:34;Presentes
+2023-06-02 13:42:39;Nao Presentes
+2023-06-02 13:42:44;Nao Presentes
+2023-06-02 13:42:49;Presentes
+2023-06-02 13:42:54;Presentes
+2023-06-02 13:42:59;Nao Presentes
+2023-06-02 13:43:05;Nao Presentes
+2023-06-02 13:43:10;Nao Presentes
+2023-06-02 13:43:15;Presentes
+2023-06-02 13:43:20;Presentes
+2023-06-02 13:43:25;Nao Presentes
+2023-06-02 13:43:30;Nao Presentes
+2023-06-02 13:43:35;Presentes
+2023-06-02 13:43:41;Presentes
+2023-06-02 13:43:46;Presentes
+2023-06-02 13:43:51;Presentes
+2023-06-02 13:43:56;Presentes
+2023-06-02 13:44:01;Presentes
+2023-06-02 13:44:06;Presentes
+2023-06-02 13:44:11;Presentes
+2023-06-02 13:44:17;Presentes
+2023-06-02 13:44:22;Presentes
+2023-06-02 13:44:27;Presentes
+2023-06-02 13:44:32;Presentes
+2023-06-02 13:44:37;Presentes
+2023-06-02 13:44:42;Presentes
+2023-06-02 13:44:47;Presentes
+2023-06-02 13:44:52;Presentes
+2023-06-02 13:44:57;Presentes
+2023-06-02 13:45:03;Presentes
+2023-06-02 13:45:08;Presentes
+2023-06-02 13:45:13;Presentes
+2023-06-02 13:45:18;Presentes
+2023-06-02 13:45:23;Presentes
+2023-06-02 13:45:28;Presentes
+2023-06-02 13:45:33;Presentes
+2023-06-02 13:45:39;Nao Presentes
+2023-06-02 13:45:44;Presentes
+2023-06-02 13:45:49;Nao Presentes
+2023-06-02 13:45:54;Nao Presentes
+2023-06-02 13:45:59;Nao Presentes
+2023-06-02 13:46:04;Nao Presentes
+2023-06-02 13:46:10;Nao Presentes
+2023-06-02 13:46:15;Nao Presentes
+2023-06-02 13:46:20;Nao Presentes
+2023-06-02 13:46:25;Nao Presentes
+2023-06-02 13:46:30;Presentes
+2023-06-02 13:46:35;Nao Presentes
+2023-06-02 13:46:41;Presentes
+2023-06-02 13:46:46;Presentes
+2023-06-02 13:46:51;Presentes
+2023-06-02 13:46:56;Presentes
+2023-06-02 13:47:01;Presentes
+2023-06-02 13:47:06;Presentes
+2023-06-02 13:47:11;Presentes
+2023-06-02 13:47:18;Presentes
+2023-06-02 13:47:23;Nao Presentes
+2023-06-02 13:47:28;Presentes
+2023-06-02 13:47:34;Nao Presentes
+2023-06-02 13:47:39;Presentes
+2023-06-02 13:47:44;Presentes
+2023-06-02 13:47:49;Presentes
+2023-06-02 13:47:54;Presentes
+2023-06-02 13:47:59;Presentes
+2023-06-02 13:48:04;Presentes
+2023-06-02 13:48:09;Nao Presentes
+2023-06-02 13:48:15;Presentes
+2023-06-02 13:48:20;Nao Presentes
+2023-06-02 13:48:25;Nao Presentes
+2023-06-02 13:48:30;Nao Presentes
+2023-06-02 13:48:35;Nao Presentes
+2023-06-02 13:48:40;Nao Presentes
+2023-06-02 13:48:45;Nao Presentes
+2023-06-02 13:48:50;Nao Presentes
+2023-06-02 13:48:56;Nao Presentes
+2023-06-02 13:49:01;Nao Presentes
+2023-06-02 13:49:06;Nao Presentes
+2023-06-02 13:49:11;Nao Presentes
+2023-06-02 13:49:16;Nao Presentes
+2023-06-02 13:49:21;Nao Presentes
+2023-06-02 13:49:26;Nao Presentes
+2023-06-02 13:49:32;Nao Presentes
+2023-06-02 13:49:37;Nao Presentes
+2023-06-02 13:49:42;Nao Presentes
+2023-06-02 13:49:47;Nao Presentes
+2023-06-02 13:49:52;Nao Presentes
+2023-06-02 13:49:57;Nao Presentes
+2023-06-02 13:50:02;Nao Presentes
+2023-06-02 13:50:07;Nao Presentes
+2023-06-02 13:50:12;Nao Presentes
+2023-06-02 13:50:18;Nao Presentes
+2023-06-02 13:50:23;Nao Presentes
+2023-06-02 13:50:28;Nao Presentes
+2023-06-02 13:50:33;Nao Presentes
+2023-06-02 13:50:38;Nao Presentes
+2023-06-02 13:50:43;Nao Presentes
+2023-06-02 13:50:48;Nao Presentes
+2023-06-02 13:50:53;Nao Presentes
+2023-06-02 13:50:58;Nao Presentes
+2023-06-02 13:51:03;Nao Presentes
+2023-06-02 13:51:09;Nao Presentes
+2023-06-02 13:51:14;Nao Presentes
+2023-06-02 13:51:19;Nao Presentes
+2023-06-02 13:51:24;Nao Presentes
+2023-06-02 13:51:29;Nao Presentes
+2023-06-02 13:51:34;Nao Presentes
+2023-06-02 13:51:39;Nao Presentes
+2023-06-02 13:51:44;Nao Presentes
+2023-06-02 13:51:50;Nao Presentes
+2023-06-02 13:51:55;Nao Presentes
+2023-06-02 13:52:00;Nao Presentes
+2023-06-02 13:52:05;Nao Presentes
+2023-06-02 13:52:11;Nao Presentes
+2023-06-02 13:52:16;Nao Presentes
+2023-06-02 13:52:21;Nao Presentes
+2023-06-02 13:52:26;Nao Presentes
+2023-06-02 13:52:31;Nao Presentes
+2023-06-02 13:52:36;Nao Presentes
+2023-06-02 13:52:41;Nao Presentes
+2023-06-02 13:52:46;Nao Presentes
+2023-06-02 13:52:52;Nao Presentes
+2023-06-02 13:52:57;Nao Presentes
+2023-06-02 13:53:02;Nao Presentes
+2023-06-02 13:53:07;Nao Presentes
+2023-06-02 13:53:12;Nao Presentes
+2023-06-02 13:53:17;Nao Presentes
+2023-06-02 13:53:22;Nao Presentes
+2023-06-02 13:53:28;Nao Presentes
+2023-06-02 13:53:33;Nao Presentes
+2023-06-02 13:53:38;Nao Presentes
+2023-06-02 13:53:43;Nao Presentes
+2023-06-02 13:53:48;Nao Presentes
+2023-06-02 13:53:53;Nao Presentes
+2023-06-02 13:53:59;Nao Presentes
+2023-06-02 13:54:04;Nao Presentes
+2023-06-02 13:54:09;Nao Presentes
+2023-06-02 13:54:14;Nao Presentes
+2023-06-02 13:54:19;Nao Presentes
+2023-06-02 13:54:24;Nao Presentes
+2023-06-02 13:54:29;Nao Presentes
+2023-06-02 13:54:34;Nao Presentes
+2023-06-02 13:54:39;Nao Presentes
+2023-06-02 13:54:44;Nao Presentes
+2023-06-02 13:54:50;Nao Presentes
+2023-06-02 13:54:55;Nao Presentes
+2023-06-02 13:55:00;Nao Presentes
+2023-06-02 13:55:05;Nao Presentes
+2023-06-02 13:55:10;Nao Presentes
+2023-06-02 13:55:15;Nao Presentes
+2023-06-02 13:55:20;Nao Presentes
+2023-06-02 13:55:26;Nao Presentes
+2023-06-02 13:55:31;Nao Presentes
+2023-06-02 13:55:36;Nao Presentes
+2023-06-02 13:55:41;Nao Presentes
+2023-06-02 13:55:46;Nao Presentes
+2023-06-02 13:55:51;Nao Presentes
+2023-06-02 13:55:56;Nao Presentes
+2023-06-02 13:56:01;Nao Presentes
+2023-06-02 13:56:06;Nao Presentes
+2023-06-02 13:56:11;Nao Presentes
+2023-06-02 13:56:17;Nao Presentes
+2023-06-02 13:56:22;Nao Presentes
+2023-06-02 13:56:27;Nao Presentes
+2023-06-02 13:56:32;Nao Presentes
+2023-06-02 13:56:37;Nao Presentes
+2023-06-02 13:56:42;Nao Presentes
+2023-06-02 13:56:47;Nao Presentes
+2023-06-02 13:56:52;Nao Presentes
+2023-06-02 13:56:58;Nao Presentes
+2023-06-02 13:57:03;Nao Presentes
+2023-06-02 13:57:08;Nao Presentes
+2023-06-02 13:57:13;Nao Presentes
+2023-06-02 13:57:18;Nao Presentes
+2023-06-02 13:57:23;Nao Presentes
+2023-06-02 13:57:28;Nao Presentes
+2023-06-02 13:57:33;Nao Presentes
+2023-06-02 13:57:38;Nao Presentes
+2023-06-02 13:57:44;Nao Presentes
+2023-06-02 13:57:49;Nao Presentes
+2023-06-02 13:57:54;Nao Presentes
+2023-06-02 13:57:59;Nao Presentes
+2023-06-02 13:58:04;Nao Presentes
+2023-06-02 13:58:09;Nao Presentes
+2023-06-02 13:58:14;Nao Presentes
+2023-06-02 13:58:19;Nao Presentes
+2023-06-02 13:58:25;Nao Presentes
+2023-06-02 13:58:30;Nao Presentes
+2023-06-02 13:58:35;Nao Presentes
+2023-06-02 13:58:40;Nao Presentes
+2023-06-02 13:58:45;Nao Presentes
+2023-06-02 13:58:50;Nao Presentes
+2023-06-02 13:58:55;Nao Presentes
+2023-06-02 13:59:00;Nao Presentes
+2023-06-02 13:59:05;Nao Presentes
+2023-06-02 13:59:11;Nao Presentes
+2023-06-02 13:59:16;Nao Presentes
+2023-06-02 13:59:21;Nao Presentes
+2023-06-02 13:59:26;Nao Presentes
+2023-06-02 13:59:31;Nao Presentes
+2023-06-02 13:59:36;Nao Presentes
+2023-06-02 13:59:41;Nao Presentes
+2023-06-02 13:59:46;Nao Presentes
+2023-06-02 13:59:51;Nao Presentes
+2023-06-02 13:59:56;Nao Presentes
+2023-06-02 14:00:01;Nao Presentes
+2023-06-02 14:00:07;Nao Presentes
+2023-06-02 14:00:12;Nao Presentes
+2023-06-02 14:00:17;Nao Presentes
+2023-06-02 14:00:22;Nao Presentes
+2023-06-02 14:00:27;Nao Presentes
+2023-06-02 14:00:32;Nao Presentes
+2023-06-02 14:00:37;Nao Presentes
+2023-06-02 14:00:42;Nao Presentes
+2023-06-02 14:00:48;Nao Presentes
+2023-06-02 14:00:53;Nao Presentes
+2023-06-02 14:00:58;Nao Presentes
+2023-06-02 14:01:03;Nao Presentes
+2023-06-02 14:01:08;Nao Presentes
+2023-06-02 14:01:13;Nao Presentes
+2023-06-02 14:01:18;Nao Presentes
+2023-06-02 14:01:24;Nao Presentes
+2023-06-02 14:01:29;Nao Presentes
+2023-06-02 14:01:34;Nao Presentes
+2023-06-02 14:01:39;Nao Presentes
+2023-06-02 14:01:44;Nao Presentes
+2023-06-02 14:01:50;Nao Presentes
+2023-06-02 14:01:55;Nao Presentes
+2023-06-02 14:02:00;Nao Presentes
+2023-06-02 14:02:05;Nao Presentes
+2023-06-02 14:02:10;Nao Presentes
+2023-06-02 14:02:15;Nao Presentes
+2023-06-02 14:02:20;Nao Presentes
+2023-06-02 14:02:26;Nao Presentes
+2023-06-02 14:02:31;Nao Presentes
+2023-06-02 14:02:36;Nao Presentes
+2023-06-02 14:02:42;Nao Presentes
+2023-06-02 14:02:47;Nao Presentes
+2023-06-02 14:02:52;Nao Presentes
+2023-06-02 14:02:57;Nao Presentes
+2023-06-02 14:03:02;Nao Presentes
+2023-06-02 14:03:07;Nao Presentes
+2023-06-02 14:03:13;Nao Presentes
+2023-06-02 14:03:18;Nao Presentes
+2023-06-02 14:03:23;Nao Presentes
+2023-06-02 14:03:28;Nao Presentes
+2023-06-02 14:03:33;Nao Presentes
+2023-06-02 14:03:39;Nao Presentes
+2023-06-02 14:03:44;Nao Presentes
+2023-06-02 14:03:49;Nao Presentes
+2023-06-02 14:03:54;Nao Presentes
+2023-06-02 14:03:59;Nao Presentes
+2023-06-02 14:04:04;Nao Presentes
+2023-06-02 14:04:09;Nao Presentes
+2023-06-02 14:04:15;Nao Presentes
+2023-06-02 14:04:20;Nao Presentes
+2023-06-02 14:04:25;Nao Presentes
+2023-06-02 14:04:30;Nao Presentes
+2023-06-02 14:04:35;Nao Presentes
+2023-06-02 14:04:40;Nao Presentes
+2023-06-02 14:04:45;Nao Presentes
+2023-06-02 14:04:51;Nao Presentes
+2023-06-02 14:04:56;Nao Presentes
+2023-06-02 14:05:01;Nao Presentes
+2023-06-02 14:05:06;Nao Presentes
+2023-06-02 14:05:11;Nao Presentes
+2023-06-02 14:05:16;Nao Presentes
+2023-06-02 14:05:22;Nao Presentes
+2023-06-02 14:05:27;Nao Presentes
+2023-06-02 14:05:32;Nao Presentes
+2023-06-02 14:05:37;Nao Presentes
+2023-06-02 14:05:42;Nao Presentes
+2023-06-02 14:05:47;Nao Presentes
+2023-06-02 14:05:52;Nao Presentes
+2023-06-02 14:05:57;Nao Presentes
+2023-06-02 14:06:02;Nao Presentes
+2023-06-02 14:06:08;Nao Presentes
+2023-06-02 14:06:13;Nao Presentes
+2023-06-02 14:06:18;Nao Presentes
+2023-06-02 14:06:23;Nao Presentes
+2023-06-02 14:06:28;Nao Presentes
+2023-06-02 14:06:33;Nao Presentes
+2023-06-02 14:06:38;Nao Presentes
+2023-06-02 14:06:43;Nao Presentes
+2023-06-02 14:06:53;Nao Presentes
+2023-06-02 14:06:59;Nao Presentes
+2023-06-02 14:07:07;Nao Presentes
+2023-06-02 14:07:12;Nao Presentes
+2023-06-02 14:07:18;Presentes
+2023-06-02 14:07:23;Presentes
+2023-06-02 14:07:33;Nao Presentes
+2023-06-02 14:07:38;Nao Presentes
+2023-06-02 14:07:43;Nao Presentes
+2023-06-02 14:07:48;Nao Presentes
+2023-06-02 14:07:54;Nao Presentes
+2023-06-02 14:07:59;Nao Presentes
+2023-06-02 14:08:04;Nao Presentes
+2023-06-02 14:08:09;Nao Presentes
+2023-06-02 14:08:14;Nao Presentes
+2023-06-02 14:08:19;Nao Presentes
+2023-06-02 14:08:24;Nao Presentes
+2023-06-02 14:08:29;Nao Presentes
+2023-06-02 14:08:34;Nao Presentes
+2023-06-02 14:08:40;Nao Presentes
+2023-06-02 14:08:45;Nao Presentes
+2023-06-02 14:08:50;Nao Presentes
+2023-06-02 14:08:55;Nao Presentes
+2023-06-02 14:09:00;Nao Presentes
+2023-06-02 14:09:05;Nao Presentes
+2023-06-02 14:09:10;Nao Presentes
+2023-06-02 14:09:16;Nao Presentes
+2023-06-02 14:09:21;Nao Presentes
+2023-06-02 14:09:26;Presentes
+2023-06-02 14:09:31;Nao Presentes
+2023-06-02 14:09:36;Presentes
+2023-06-02 14:09:41;Nao Presentes
+2023-06-02 14:09:46;Nao Presentes
+2023-06-02 14:09:51;Presentes
+2023-06-02 14:09:57;Presentes
+2023-06-02 14:10:02;Nao Presentes
+2023-06-02 14:10:07;Nao Presentes
+2023-06-02 14:10:12;Nao Presentes
+2023-06-02 14:10:17;Nao Presentes
+2023-06-02 14:10:23;Nao Presentes
+2023-06-02 14:10:28;Presentes
+2023-06-02 14:10:33;Presentes
+2023-06-02 14:10:38;Presentes
+2023-06-02 14:10:43;Presentes
+2023-06-02 14:10:48;Nao Presentes
+2023-06-02 14:10:53;Nao Presentes
+2023-06-02 14:10:58;Nao Presentes
+2023-06-02 14:11:04;Nao Presentes
+2023-06-02 14:11:09;Nao Presentes
+2023-06-02 14:11:14;Nao Presentes
+2023-06-02 14:11:19;Nao Presentes
+2023-06-02 14:11:24;Nao Presentes
+2023-06-02 14:11:29;Nao Presentes
+2023-06-02 14:11:34;Nao Presentes
+2023-06-02 13:31:59;Nao Presentes
+2023-06-02 13:40:18;Nao Presentes
+2023-06-02 13:40:24;Nao Presentes
+2023-06-02 13:40:30;Nao Presentes
+2023-06-02 13:40:35;Nao Presentes
+2023-06-02 13:40:41;Nao Presentes
+2023-06-02 13:40:47;Nao Presentes
+2023-06-02 13:40:54;Nao Presentes
+2023-06-02 13:41:00;Nao Presentes
+2023-06-02 13:41:06;Nao Presentes
+2023-06-02 13:44:21;Nao Presentes
+2023-06-02 13:44:27;Nao Presentes
+2023-06-02 13:44:33;Nao Presentes
+2023-06-02 13:44:39;Nao Presentes
+2023-06-02 13:44:45;Nao Presentes
+2023-06-02 13:44:52;Nao Presentes
+2023-06-02 13:44:58;Nao Presentes
+2023-06-02 13:45:05;Nao Presentes
+2023-06-02 13:45:11;Nao Presentes
+2023-06-02 13:45:17;Nao Presentes
+2023-06-02 13:45:24;Nao Presentes
+2023-06-02 13:45:30;Nao Presentes
+2023-06-02 13:45:36;Nao Presentes
+2023-06-02 13:45:43;Nao Presentes
+2023-06-02 13:45:49;Nao Presentes
+2023-06-02 13:45:55;Nao Presentes
+2023-06-02 13:46:01;Nao Presentes
+2023-06-02 13:46:07;Nao Presentes
+2023-06-02 13:46:13;Nao Presentes
+2023-06-02 13:48:50;Nao Presentes
+2023-06-02 13:48:56;Nao Presentes
+2023-06-02 13:49:02;Nao Presentes
+2023-06-02 13:49:07;Nao Presentes
+2023-06-02 13:49:13;Nao Presentes
+2023-06-02 13:49:19;Nao Presentes
+2023-06-02 13:49:25;Nao Presentes
+2023-06-02 13:49:31;Nao Presentes
+2023-06-02 13:49:37;Nao Presentes
+2023-06-02 13:49:43;Nao Presentes
+2023-06-02 13:49:48;Nao Presentes
+2023-06-02 13:49:54;Nao Presentes
+2023-06-02 13:50:00;Nao Presentes
+2023-06-02 13:50:06;Nao Presentes
+2023-06-02 13:50:12;Nao Presentes
+2023-06-02 13:50:21;Nao Presentes
+2023-06-02 13:50:27;Nao Presentes
+2023-06-02 13:50:33;Nao Presentes
+2023-06-02 13:50:39;Nao Presentes
+2023-06-02 13:50:46;Nao Presentes
+2023-06-02 13:50:53;Nao Presentes
+2023-06-02 13:50:58;Nao Presentes
+2023-06-02 13:51:04;Nao Presentes
+2023-06-02 13:51:11;Nao Presentes
+2023-06-02 13:52:45;Nao Presentes
+2023-06-02 13:58:52;Nao Presentes
+2023-06-02 14:26:17;Nao Presentes
+2023-06-02 14:27:33;Nao Presentes
+2023-06-02 14:27:38;Presentes
+2023-06-02 14:27:44;Presentes
+2023-06-02 14:27:49;Nao Presentes
+2023-06-02 14:27:54;Nao Presentes
+2023-06-02 14:27:59;Nao Presentes
+2023-06-02 14:28:04;Presentes
+2023-06-02 14:28:09;Presentes
+2023-06-02 14:28:14;Presentes
+2023-06-02 14:28:19;Nao Presentes
+2023-06-02 14:28:25;Presentes
+2023-06-02 14:28:30;Presentes
+2023-06-02 14:28:35;Presentes
+2023-06-02 14:28:40;Nao Presentes
+2023-06-02 14:28:45;Nao Presentes
+2023-06-02 14:28:50;Nao Presentes
+2023-06-02 14:28:55;Nao Presentes
+2023-06-02 14:29:01;Nao Presentes
+2023-06-02 14:29:06;Nao Presentes
+2023-06-02 14:29:11;Nao Presentes
+2023-06-02 14:29:16;Nao Presentes
+2023-06-02 14:29:21;Nao Presentes
+2023-06-02 14:29:26;Nao Presentes
+2023-06-02 14:29:31;Nao Presentes
+2023-06-02 14:29:36;Nao Presentes
+2023-06-02 14:29:42;Nao Presentes
+2023-06-02 14:29:47;Nao Presentes
+2023-06-02 14:29:52;Nao Presentes
+2023-06-02 14:29:57;Nao Presentes
+2023-06-02 14:30:02;Nao Presentes
+2023-06-02 14:30:07;Nao Presentes
+2023-06-02 14:30:13;Nao Presentes
+2023-06-02 14:30:18;Nao Presentes
+2023-06-02 14:30:23;Nao Presentes
+2023-06-02 14:30:28;Nao Presentes
+2023-06-02 14:30:33;Nao Presentes
+2023-06-02 14:30:38;Nao Presentes
+2023-06-02 14:30:44;Nao Presentes
+2023-06-02 14:30:49;Nao Presentes
+2023-06-02 14:30:54;Nao Presentes
+2023-06-02 14:30:59;Nao Presentes
+2023-06-02 14:31:04;Nao Presentes
+2023-06-02 14:31:09;Nao Presentes
+2023-06-02 14:31:15;Nao Presentes
+2023-06-02 14:31:20;Nao Presentes
+2023-06-02 14:31:25;Nao Presentes
+2023-06-02 14:31:30;Nao Presentes
+2023-06-02 14:31:35;Nao Presentes
+2023-06-02 14:31:40;Nao Presentes
+2023-06-02 14:31:45;Nao Presentes
+2023-06-02 14:31:50;Nao Presentes
+2023-06-02 14:31:55;Nao Presentes
+2023-06-02 14:32:00;Nao Presentes
+2023-06-02 14:32:06;Nao Presentes
+2023-06-02 14:32:11;Nao Presentes
+2023-06-02 14:32:16;Nao Presentes
+2023-06-02 14:32:21;Nao Presentes
+2023-06-02 14:32:26;Nao Presentes
+2023-06-02 14:32:31;Nao Presentes
+2023-06-02 14:32:36;Nao Presentes
+2023-06-02 14:32:41;Nao Presentes
+2023-06-02 14:32:47;Nao Presentes
+2023-06-02 14:32:52;Nao Presentes
+2023-06-02 14:32:57;Nao Presentes
+2023-06-02 14:33:02;Nao Presentes
+2023-06-02 14:33:07;Nao Presentes
+2023-06-02 14:33:12;Nao Presentes
+2023-06-02 14:33:18;Nao Presentes
+2023-06-02 14:33:23;Nao Presentes
+2023-06-02 14:33:28;Nao Presentes
+2023-06-02 14:33:33;Nao Presentes
+2023-06-02 14:33:38;Nao Presentes
+2023-06-02 14:33:43;Nao Presentes
+2023-06-02 14:33:49;Nao Presentes
+2023-06-02 14:33:54;Nao Presentes
+2023-06-02 14:33:59;Nao Presentes
+2023-06-02 14:34:04;Nao Presentes
+2023-06-02 14:34:09;Nao Presentes
+2023-06-02 14:34:14;Nao Presentes
+2023-06-02 14:34:20;Nao Presentes
+2023-06-02 14:34:25;Nao Presentes
+2023-06-02 14:34:30;Nao Presentes
+2023-06-02 14:34:35;Nao Presentes
+2023-06-02 14:34:40;Nao Presentes
+2023-06-02 14:34:45;Nao Presentes
+2023-06-02 14:34:50;Nao Presentes
+2023-06-02 14:34:55;Nao Presentes
+2023-06-02 14:35:00;Nao Presentes
+2023-06-02 14:35:05;Nao Presentes
+2023-06-02 14:35:11;Nao Presentes
+2023-06-02 14:35:16;Nao Presentes
+2023-06-02 14:35:21;Nao Presentes
+2023-06-02 14:35:26;Nao Presentes
+2023-06-02 14:35:31;Nao Presentes
+2023-06-02 14:35:36;Nao Presentes
+2023-06-02 14:35:41;Nao Presentes
+2023-06-02 14:35:47;Nao Presentes
+2023-06-02 14:35:52;Nao Presentes
+2023-06-02 14:35:57;Nao Presentes
+2023-06-02 14:36:02;Nao Presentes
+2023-06-02 14:36:07;Nao Presentes
+2023-06-02 14:36:12;Nao Presentes
+2023-06-02 14:36:17;Nao Presentes
+2023-06-02 14:36:22;Nao Presentes
+2023-06-02 14:36:27;Nao Presentes
+2023-06-02 14:36:33;Nao Presentes
+2023-06-02 14:36:38;Nao Presentes
+2023-06-02 14:36:43;Nao Presentes
+2023-06-02 14:36:48;Nao Presentes
+2023-06-02 14:36:53;Nao Presentes
+2023-06-02 14:36:58;Nao Presentes
+2023-06-02 14:37:03;Nao Presentes
+2023-06-02 14:37:08;Nao Presentes
+2023-06-02 14:37:13;Nao Presentes
+2023-06-02 14:37:18;Nao Presentes
+2023-06-02 14:37:24;Nao Presentes
+2023-06-02 14:37:29;Nao Presentes
+2023-06-02 14:37:34;Nao Presentes
+2023-06-02 14:37:39;Nao Presentes
+2023-06-02 14:37:44;Nao Presentes
+2023-06-02 14:37:49;Nao Presentes
+2023-06-02 14:37:54;Nao Presentes
+2023-06-02 14:37:59;Nao Presentes
+2023-06-02 14:38:09;Nao Presentes
+2023-06-02 14:38:14;Nao Presentes
+2023-06-02 14:38:19;Nao Presentes
+2023-06-02 14:38:24;Nao Presentes
+2023-06-02 14:38:29;Nao Presentes
+2023-06-02 14:38:34;Nao Presentes
+2023-06-02 14:38:40;Nao Presentes
+2023-06-02 14:38:45;Nao Presentes
+2023-06-02 14:38:50;Nao Presentes
+2023-06-02 14:38:55;Nao Presentes
+2023-06-02 14:39:00;Nao Presentes
+2023-06-02 14:39:05;Nao Presentes
+2023-06-02 14:39:10;Nao Presentes
+2023-06-02 14:39:16;Nao Presentes
+2023-06-02 14:39:21;Nao Presentes
+2023-06-02 14:39:26;Nao Presentes
+2023-06-02 14:39:31;Nao Presentes
+2023-06-02 14:39:36;Nao Presentes
+2023-06-02 14:39:42;Nao Presentes
+2023-06-02 14:39:47;Nao Presentes
+2023-06-02 14:39:52;Nao Presentes
+2023-06-02 14:39:57;Nao Presentes
+2023-06-02 14:40:02;Nao Presentes
+2023-06-02 14:40:07;Nao Presentes
+2023-06-02 14:40:12;Nao Presentes
+2023-06-02 14:40:17;Nao Presentes
+2023-06-02 14:40:23;Nao Presentes
+2023-06-02 14:40:28;Nao Presentes
+2023-06-02 14:40:33;Nao Presentes
+2023-06-02 14:40:38;Nao Presentes
+2023-06-02 14:40:43;Nao Presentes
+2023-06-02 14:40:48;Nao Presentes
+2023-06-02 14:40:53;Nao Presentes
+2023-06-02 14:40:59;Nao Presentes
+2023-06-02 14:41:04;Nao Presentes
+2023-06-02 14:41:09;Nao Presentes
+2023-06-02 14:41:14;Nao Presentes
+2023-06-02 14:41:19;Nao Presentes
+2023-06-02 14:41:24;Nao Presentes
+2023-06-02 14:41:29;Nao Presentes
+2023-06-02 14:41:34;Nao Presentes
+2023-06-02 14:41:39;Nao Presentes
+2023-06-02 14:41:45;Nao Presentes
+2023-06-02 14:41:50;Nao Presentes
+2023-06-02 14:41:55;Nao Presentes
+2023-06-02 15:41:23;Nao Presentes
+2023-06-02 15:41:28;Nao Presentes
+2023-06-02 15:41:33;Nao Presentes
+2023-06-02 15:41:38;Nao Presentes
+2023-06-02 15:41:43;Nao Presentes
+2023-06-02 15:41:49;Nao Presentes
+2023-06-02 15:41:54;Nao Presentes
+2023-06-02 15:42:02;Nao Presentes
+2023-06-02 15:42:07;Nao Presentes
+2023-06-02 15:42:15;Nao Presentes
+2023-06-02 15:42:21;Nao Presentes
+2023-06-02 15:42:28;Nao Presentes
+2023-06-02 15:42:34;Nao Presentes
+2023-06-02 15:42:39;Nao Presentes
+2023-06-02 15:42:44;Nao Presentes
+2023-06-02 15:42:50;Nao Presentes
+2023-06-02 15:42:55;Nao Presentes
+2023-06-02 15:43:00;Nao Presentes
+2023-06-02 15:43:05;Nao Presentes
+2023-06-02 15:43:11;Nao Presentes
+2023-06-02 15:43:16;Nao Presentes
+2023-06-02 15:43:21;Nao Presentes
+2023-06-02 15:43:26;Nao Presentes
+2023-06-02 15:43:31;Nao Presentes
+2023-06-02 15:43:36;Nao Presentes
+2023-06-02 15:43:41;Nao Presentes
+2023-06-02 15:43:47;Nao Presentes
+2023-06-02 15:43:52;Nao Presentes
+2023-06-02 15:43:57;Nao Presentes
+2023-06-02 15:44:02;Nao Presentes
+2023-06-02 15:44:07;Presentes
+2023-06-02 15:44:12;Nao Presentes
+2023-06-02 15:44:17;Presentes
+2023-06-02 15:44:23;Presentes
+2023-06-02 15:44:28;Presentes
+2023-06-02 15:44:33;Nao Presentes
+2023-06-02 15:44:38;Nao Presentes
+2023-06-02 15:44:43;Presentes
+2023-06-02 15:44:48;Presentes
+2023-06-02 15:44:53;Presentes
+2023-06-02 15:44:58;Presentes
+2023-06-02 15:45:04;Presentes
+2023-06-02 15:45:09;Presentes
+2023-06-02 15:45:14;Presentes
+2023-06-02 15:45:19;Presentes
+2023-06-02 15:45:24;Presentes
+2023-06-02 15:45:29;Presentes
+2023-06-02 15:45:34;Nao Presentes
+2023-06-02 15:45:40;Nao Presentes
+2023-06-02 15:45:45;Nao Presentes
+2023-06-02 15:45:50;Nao Presentes
+2023-06-02 15:45:55;Nao Presentes
+2023-06-02 15:46:00;Nao Presentes
+2023-06-02 15:46:05;Nao Presentes
+2023-06-02 15:46:10;Nao Presentes
+2023-06-02 15:46:16;Nao Presentes
+2023-06-02 15:46:21;Nao Presentes
+2023-06-02 15:46:26;Nao Presentes
+2023-06-02 15:46:32;Nao Presentes
+2023-06-02 15:46:37;Nao Presentes
+2023-06-02 15:46:43;Nao Presentes
+2023-06-02 15:46:48;Nao Presentes
+2023-06-02 15:46:53;Nao Presentes
+2023-06-02 15:46:58;Presentes
+2023-06-02 15:47:03;Presentes
+2023-06-02 15:47:09;Presentes
+2023-06-02 15:47:14;Presentes
+2023-06-02 15:47:19;Presentes
+2023-06-02 15:47:25;Presentes
+2023-06-02 15:47:30;Presentes
+2023-06-02 15:47:35;Presentes

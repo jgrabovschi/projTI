@@ -1,0 +1,65 @@
+/*FORMULARIO DE LOGIN: ALTERACOES DE TAMANHO E ASPETO*/
+.TIform {
+    width: 350px;
+    padding: 15px;
+}
+
+/*CARTOES DO QUARTO: COR DO HEADER*/
+.quarto{
+    background-color: #93baff;
+}
+
+/*CARTOES DA SALA: COR DO HEADER*/
+.sala {
+    background-color: #ffbf6c;
+}
+
+/*BOTAO AZUL HOME: POSICAO E TAMANHO*/
+.home {
+    position: relative;
+    bottom: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+/*IMAGEM DE FUNDO BASE*/
+.fundo{
+    background-image: url(img/bg2.png);
+}
+
+/*CARTOES COM SCROLL: FUNCAO DE SCROLL E TAMANHO*/
+.scrollCard{
+    overflow-y:scroll;
+    height:400px;
+}
+
+/*TAMANHO FIXO 300PX LARGURA*/
+.w300{
+    width: 300px;
+}
+
+/*TAMANHO FIXO 200PX LARGURA*/
+.w200{
+    width: 200px;
+}
+
+/*CARTOES DE DIVISAO: COR DO HEADER*/
+.divisao{
+    background-color:aliceblue;
+}
+
+/*MENSAGEM DE AUXILIO NO TOPO DA PAGINA: TAMANHO E ASPETO*/
+.ajuda{
+    padding: 15px;
+    width: fit-content;
+}
+
+/*TIRA A DECORACAO DE LINKS*/
+.tiraDecoracao{
+    text-decoration: none;
+}
+
+.no-gutters .col {
+    flex: 0 0 auto;
+    width: auto;
+}

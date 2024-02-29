@@ -1,0 +1,2 @@
+quarto:humidade;led;temperatura;luz presente;ventoinha;candeeiro;luz
+sala:chamas;luz;porta;imagem
